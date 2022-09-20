@@ -1,2 +1,2 @@
 # Intro-to-github
-learning who to use github.
+learning how to use github.
